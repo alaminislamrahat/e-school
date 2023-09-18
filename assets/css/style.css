@@ -1,0 +1,180 @@
+.container{
+    margin-bottom: 100px;
+}
+.btn-own{
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 33px;
+    background: #21B573;
+    text-transform: uppercase;
+    padding: 14px 14px;
+    transition: .3s;
+    border: none;
+}
+.btn-own2{
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 33px;
+    background: #21B573;
+    text-transform: uppercase;
+    padding: 9px 10px;
+    transition: .3s;
+    border: none;
+}
+.btn-own2:hover{
+    background-color: #FD511A;
+}
+.btn-own:hover{
+    background-color: #FD511A;
+}
+/* NAV css */
+.navbar-brand img {
+    max-width: 200px;
+}
+.bg-color-1{
+    background-color: #F0FFF0;
+}
+.nav-link{
+    margin-right: 20px;
+    font-size: 22px;
+    color: #333;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.nav-link:hover{
+    color: #FD511A;
+}
+
+/* hero area css */
+.img-area img{
+    width: 100%;
+}
+.text p {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: sans-serif;
+    margin-bottom: 30px;
+}
+.color{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: #FD511A;
+    text-transform: capitalize;
+}
+.text h1{
+color: #000;
+font-family: sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 70px;
+text-transform: capitalize;
+margin-bottom: 25px;
+}
+.text h1 span{
+    display: block;
+    color: #21B573;
+}
+
+
+.single-component img{
+    width: 66px;
+    height: 85px;
+    flex-shrink: 0;
+    margin-bottom: 14px;
+}
+.single-component h3{
+    color: #413960;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.single-component{
+    width: 270px;
+    height: 270px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #F8FFFB;
+}
+.single-component2{
+    width: 270px;
+    height: 270px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.10);
+}
+.single-component2 img{
+    width: 66px;
+    height: 85px;
+    flex-shrink: 0;
+    margin-bottom: 14px;
+}
+.component-item{
+    text-align: center;
+    
+}
+
+/* card css */
+.card span{
+    margin-left: 150px;
+}
+.card{
+    padding: 10px 20px;
+    border: none;
+    box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.10);
+}
+.heading h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+.testimonial img{
+    width: 120px;
+    height: 120px;
+    flex-shrink: 0;
+
+}
+.heading{
+    margin-bottom: 100px;
+}
+
+/* .testimonial css */
+.testimonial-img {
+    transform: translate(249px, -13px);
+}
+
+/* footer css */
+.footer-area{
+    background-color: #282531;
+    color: #fff;
+    height: 369px;
+
+}
+.footer-content{
+    text-align: center;
+    margin-top: 130px;
+}
+.row.footer-list {
+    transform: translate(129px, 49px);
+}
+.footer-list ul li{
+    list-style: none;
+}
+.footer-area h3{
+    text-transform: capitalize;
+    margin-left: 22px;
+}
